@@ -1,6 +1,7 @@
 body {
-  background-image: url("images/background.jpg");
-  background-size: 100%;
+  background-image: url("images/background.png");
+  background-attachment: fixed;
+  background-size: 105%;
   font-family: 'Lato', sans-serif;
   color: gray;
 }
