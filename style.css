@@ -44,7 +44,7 @@ a {
 
 a:hover {
   color: #2552AC;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 ul {
@@ -100,4 +100,24 @@ li {
 
 .whole-article {
   margin: 20px;
+}
+
+.button-blue a {
+  color: #FFF;
+  background-color: #2552AC;
+  padding: 10px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #2552AC;
+  border-width: 2px;
+}
+
+.button-blue a:hover {
+  color: #2552AC;
+  background-color: #FFF;
+  padding: 10px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #2552AC;
+  border-width: 2px;
 }
